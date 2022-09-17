@@ -1,0 +1,93 @@
+header {
+    background-color: #760000;
+    border-bottom: #ffc4a4 solid 2px;
+    text-align: center;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
+    display: block;
+}
+header {
+    display: block;
+}
+@media screen and (min-width: 1100px)
+{
+html {
+    -webkit-tap-highlight-color: transparent;
+}
+}
+html {
+    -webkit-tap-highlight-color: transparent;
+}
+html {
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+*, :after, :before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+*, :after, :before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+lp_wrapcontain {
+    max-width: 1470px;
+    margin-right: auto;
+    margin-left: auto;
+    line-height: 16px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+*, :after, :before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+header {
+    background-color: #760000;
+    border-bottom: #ffc4a4 solid 2px;
+    text-align: center;
+}
+body, html {
+    position: relative;
+    font-family: Arial,Helvetica,sans-serif;
+    background-color: #f8f8f8;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    font-size: 14px;
+}
+
+.landingpage-languagecon {
+    width: 100%;
+    text-align: right;
+    display: flex;
+    justify-content: flex-end;
+}
+.languageset-tooltip {
+    position: relative;
+    display: none;
+}
+
+.desktoplanguageset .languageset-tooltip-con {
+    right: 10px;
+    top: 10px;
+}
+.languageset-tooltip-con {
+    position: absolute;
+    background-color: rgba(72,0,0,.95);
+    z-index: 1;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    white-space: nowrap;
+    color: #fff;
+}
